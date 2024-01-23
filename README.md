@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Linkedin: [Ashish's Profile](https://www.linkedin.com/in/ashishnitk/).
+Linkedin: [Ashish's Profile](https://www.linkedin.com/in/ashish-kumar-a642bb158/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
